@@ -12,7 +12,7 @@
  - Более производительная система т.к UDP легче в передаче пакетов </br>
 ### 2) Какие из ниже перечисленных систем относятся к push модели, а какие к pull? А может есть гибридные?</br>
 - Prometheus - работает с pull и push моделью </br>
-- TICK - push модель (Telegraf, InfluxDB, Hronograf, Kapacitor) </br>
+- TICK - push модель (Telegraf, InfluxDB, Hronograf, Kapacitor. Сам находит сои компоненты,БД можно любую)  </br>
 - Zabbix - работает с pull и push моделью  </br>
 - VictoriaMetrics - </br>
 - Nagios - </br>
