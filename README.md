@@ -13,7 +13,7 @@
 ### 2) Какие из ниже перечисленных систем относятся к push модели, а какие к pull? А может есть гибридные?</br>
 - Prometheus - работает с pull и push моделью </br>
 - TICK - push модель (Telegraf, InfluxDB, Hronograf, Kapacitor. Сам находит сои компоненты,БД можно любую)  </br>
-- Zabbix - работает с pull и push моделью  </br>
+- Zabbix - работает с pull и push моделью (имеется коробочное решение по анализу, и хранению данных - усреднение, глубина ..)  </br>
 - VictoriaMetrics - </br>
 - Nagios - </br>
 ### 4) Склонировать [рапозиторий](https://github.com/influxdata/sandbox/), запустить TICK-стэк: </br>
