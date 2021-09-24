@@ -22,3 +22,6 @@
 Вывод curl http://localhost:9092/kapacitor/v1/ping </br>
 А также скриншот веб-интерфейса ПО chronograf (http://localhost:8888). </br>
 
+### Рабочие заметки: </br>
+Плейбук для установки Prometheus[https://github.com/mesaguy](https://github.com/mesaguy) </br>
+
