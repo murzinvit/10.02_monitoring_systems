@@ -17,7 +17,7 @@
 - Zabbix - работает с pull и push моделью (имеется коробочное решение по анализу, и хранению данных - усреднение, глубина ..)  </br>
 - VictoriaMetrics - </br>
 - Nagios - </br>
-### 4) Склонировать [рапозиторий](https://github.com/influxdata/sandbox/), запустить TICK-стэк: </br>
+### 4) Склонировать рапозиторий [github.com/influxdata/sandbox](https://github.com/influxdata/sandbox/), запустить TICK-стэк: </br>
 Вывод curl http://localhost:8086/ping </br>
 Вывод curl http://localhost:8888 </br>
 Вывод curl http://localhost:9092/kapacitor/v1/ping </br>
